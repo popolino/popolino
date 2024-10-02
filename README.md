@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;+I+am+Polina!;&center=true&size=30">
   </a>
 </h2>
-<hr>
 <h2 align="center">🔥 Languages-Libraries-Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=express,github,nodejs,postgresql,figma,webstorm" />
   </a>
 </p>
-<hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
   <div align=center>
@@ -25,7 +23,6 @@
     </a>
   </div>
 <br>
-<hr>
 <h2 align="center">👨‍💻 Projects 👨‍💻</h2>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/popolino/sea_battle" title="Sea Battle"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=popolino&repo=Sea_battle&theme=react&border_color=61dafb&border_radius=10&cache_seconds=600"></a>
@@ -44,11 +41,9 @@
 </div>
 <br><br><br><br><br><br>
 
-<hr>
 
 <h2 align="center">🎓 Education 🎓</h2>
 <p align="center">Студент <a href="https://21-school.ru/"> School 21</a> с апреля 2023 года</p> 
-<hr>
 <h2 align="center">📞 Contact 📞</h2>
 
 
@@ -58,7 +53,6 @@
   📫 <strong>Email:</strong> <a href="mailto:polenafan@gmail.com">polenafan@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ <strong>Telegram:</strong> <a href="https://t.me/allenain" target="_blank">@allenain</a>
 </div>
 
-<hr>
 <br><br><br><br><br><br>
 
 
