@@ -35,4 +35,3 @@ ____
 | [ToDo](https://github.com/popolino/todo-app) | Таск-трекер с возможностью создавать групповые задания с другими пользователями. Используется сервер и реализуется JWT авторизация. Проект в разработке.| TypeScript, SCSS, HTML, React, Redux Toolkit, Axios
 
 
-![snake gif](https://github.com/popolino/popolino/blob/output/github-snake.svg)
