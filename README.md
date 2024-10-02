@@ -1,7 +1,6 @@
 # Frontend developer
 ## Skills:
 
-
 - <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
@@ -35,4 +34,5 @@ ____
 | [Wayfinder](https://github.com/popolino/wayfinder) | Проект с использованием библиотеки Leaflet для отображения карт. Проект в разработке. | TypeScript, SCSS, HTML, React, Redux Toolkit, Axios |
 | [ToDo](https://github.com/popolino/todo-app) | Таск-трекер с возможностью создавать групповые задания с другими пользователями. Используется сервер и реализуется JWT авторизация. Проект в разработке.| TypeScript, SCSS, HTML, React, Redux Toolkit, Axios
 
-![snake gif](https://github.com/popolino/popolino/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/popolino/popolino/blob/output/github-snake.svg)
