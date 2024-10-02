@@ -1,6 +1,8 @@
 # Frontend developer
 ## Skills:
 
+![snake gif](https://github.com/popolino/popolino/blob/output/github-contribution-grid-snake.svg)
+
 - <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
