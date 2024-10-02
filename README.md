@@ -1,7 +1,7 @@
 <h1 align="center" >Frontend developer</h1> 
 
 <h2 align="center">
-  <a href="https://git.io/typing-svg">
+  <a >
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;+I+am+Polina!;&center=true&size=30">
   </a>
 </h2>
