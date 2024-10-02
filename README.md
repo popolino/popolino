@@ -43,7 +43,7 @@
 
 
 <h2 align="center">🎓 Education 🎓</h2>
-<p align="center">Студент <a href="https://21-school.ru/"> School 21</a> с апреля 2023 года</p> 
+<p align="center">Student at <a href="https://21-school.ru/"> School 21</a> since April 2023</p>
 <h2 align="center">📞 Contact 📞</h2>
 
 
