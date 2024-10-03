@@ -50,7 +50,6 @@
   📫 <strong>Email:</strong> <a href="mailto:polenafan@gmail.com">polenafan@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; ✈️ <strong>Telegram:</strong> <a href="https://t.me/allenain" target="_blank">@allenain</a>
 </div>
 
-![snake gif](https://github.com/popolino/popolino/blob/output/github-snake.svg)
 
 
 
