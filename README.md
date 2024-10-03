@@ -46,7 +46,7 @@
 <p align="center">Student at <a href="https://21-school.ru/"> School 21</a> since April 2023</p>
 <h2 align="center">📞 Contact 📞</h2>
 
-
+![snake gif](https://github.com/popolino/popolino/blob/output/github-snake.svg)
 
 
 <div align="center">
