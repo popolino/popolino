@@ -56,5 +56,4 @@
 
 
 
-![snake gif](https://github.com/popolino/popolino/blob/output/github-snake.svg)
 
